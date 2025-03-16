@@ -1,22 +1,22 @@
 # Terms
 1. **Introduction**
    > By using our project, you unconditionally accept the terms outlined below and agree to the processing of your personal data in accordance with our privacy policy, as well as the terms of use and privacy policy of Discord.
-3. **Terms and Conditions**
+2. **Terms and Conditions**
    > Rushia is not responsible for actions that contradict Discord's terms of use or cause harm to you, your Discord server, or its members, resulting from improper bot configuration or negligence on the part of your server's administration.
 You are prohibited from using Rushia and its resources for purposes other than intended, such as harming others, conducting commerce, or personal gain.
 You are forbidden from attempting to obtain or access Rushia's source code or any associated services without the owner's consent.
 Any destructive actions towards Rushia, including excessive abuse of its functionality, are prohibited.
 Non-constructive criticism of Rushia or its services, calls to cease using them, or any actions or statements aimed at reducing Rushia's popularity or reach are prohibited.
 Our project, its representatives, and you are all unequivocally subject to the legislation of the Russian Federation.
-4. **Paid Services**
+3. **Paid Services**
    > Most of Rushia's functionality is available for free; however, Rushia offers a paid system for unlocking additional features, centered around a unit called Rushia+. Rushia is not responsible for payment refusals from your payment method. Refunds and withdrawals of funds from your virtual account in the bot/website are not provided. Payments are only processed through QIWI and Boosty.
-5. **Content**
+4. **Content**
    > Some features of Rushia allow users to submit their own content. We are not responsible for any user-submitted content that violates Discord's terms of use and privacy policy.
 By uploading personal content through the bot on their private Discord server, the user automatically agrees to Discord's privacy policy and terms of use.
 We reserve the right to make changes to the terms of use, privacy policy, and any other content on the website and bot at any time without notifying the user.
-6. **About Rushia's Performance**
+5. **About Rushia's Performance**
    > Although the developer makes every effort to eliminate any failures and errors, we do not guarantee uninterrupted operation or the absence of disruptions or interferences from Rushia or its services.
-7. **Rushia Support Server**
+6. **Rushia Support Server**
    > All important announcements are primarily posted on Rushia's Discord support server. If, for any reason, you are not part of the server, Rushia is not responsible for user awareness.
 If you need help configuring Rushia, have found a bug, or notice a violation of the terms of use, please contact technical support on Rushia's server.
 
