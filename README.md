@@ -1,6 +1,6 @@
 # Rushia Bot Terms of Use and Privacy Policy
 
-###  Transfers:
+##  Transfers:
 [en-US]() | [ru]()
 
 ## Request to delete data
